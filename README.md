@@ -1,2 +1,0 @@
-# reacttimesheet
-Created with CodeSandbox
